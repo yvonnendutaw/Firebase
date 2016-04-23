@@ -1,0 +1,902 @@
+[
+    {
+        "Student ID": 1,
+        "First Name": "Drake",
+        "Second Name": "Fuller",
+        "Email": "iaculis.odio.Nam@faucibusutnulla.com",
+        "Tel Number": "288-8625",
+        "Address": "Virton",
+        "Academic year": "May 19th, 2015"
+	},
+    {
+        "Student ID": 2,
+        "First Name": "Lavinia",
+        "Second Name": "Lysandra",
+        "Email": "dui.augue@molestie.com",
+        "Tel Number": "1-321-238-4429",
+        "Address": "Beaconsfield",
+        "Academic year": "January 15th, 2016"
+	},
+    {
+        "Student ID": 3,
+        "First Name": "Silas",
+        "Second Name": "Emma",
+        "Email": "Proin.sed@tristiquepharetra.com",
+        "Tel Number": "1-171-267-6007",
+        "Address": "L'Hospitalet de Llobregat",
+        "Academic year": "March 25th, 2016"
+	},
+    {
+        "Student ID": 4,
+        "First Name": "Sheila",
+        "Second Name": "Rose",
+        "Email": "Sed.id@tellus.org",
+        "Tel Number": "784-8075",
+        "Address": "Bridgend",
+        "Academic year": "March 15th, 2016"
+	},
+    {
+        "Student ID": 5,
+        "First Name": "Harlan",
+        "Second Name": "Olga",
+        "Email": "non.arcu.Vivamus@molestiepharetranibh.co.uk",
+        "Tel Number": "117-6884",
+        "Address": "Chilliwack",
+        "Academic year": "July 1st, 2016"
+	},
+    {
+        "Student ID": 6,
+        "First Name": "Buckminster",
+        "Second Name": "Mikayla",
+        "Email": "interdum.libero.dui@risusaultricies.edu",
+        "Tel Number": "1-694-973-2118",
+        "Address": "Ribeirão das Neves",
+        "Academic year": "August 2nd, 2016"
+	},
+    {
+        "Student ID": 7,
+        "First Name": "Nayda",
+        "Second Name": "Quincy",
+        "Email": "quis.arcu@mollis.ca",
+        "Tel Number": "658-0562",
+        "Address": "Jalna",
+        "Academic year": "August 7th, 2016"
+	},
+    {
+        "Student ID": 8,
+        "First Name": "Jasmine",
+        "Second Name": "Jeanette",
+        "Email": "magna.tellus@pedeSuspendissedui.net",
+        "Tel Number": "757-9351",
+        "Address": "San Vicente",
+        "Academic year": "June 17th, 2015"
+	},
+    {
+        "Student ID": 9,
+        "First Name": "Dennis",
+        "Second Name": "Shaine",
+        "Email": "Aliquam@fermentumarcu.edu",
+        "Tel Number": "470-7149",
+        "Address": "Oranienburg",
+        "Academic year": "January 11th, 2017"
+	},
+    {
+        "Student ID": 10,
+        "First Name": "Xyla",
+        "Second Name": "Vaughan",
+        "Email": "quis@Maecenasornare.org",
+        "Tel Number": "909-5866",
+        "Address": "Chestermere",
+        "Academic year": "December 14th, 2016"
+	},
+    {
+        "Student ID": 11,
+        "First Name": "Tatyana",
+        "Second Name": "Slade",
+        "Email": "augue.porttitor.interdum@ullamcorper.edu",
+        "Tel Number": "1-888-217-2434",
+        "Address": "Shippagan",
+        "Academic year": "March 24th, 2017"
+	},
+    {
+        "Student ID": 12,
+        "First Name": "Blaine",
+        "Second Name": "Lyle",
+        "Email": "Curabitur.vel@acmetusvitae.org",
+        "Tel Number": "1-412-132-5289",
+        "Address": "New Plymouth",
+        "Academic year": "July 19th, 2015"
+	},
+    {
+        "Student ID": 13,
+        "First Name": "Kimberly",
+        "Second Name": "Dante",
+        "Email": "erat@orcitinciduntadipiscing.net",
+        "Tel Number": "630-6874",
+        "Address": "Wilhelmshaven",
+        "Academic year": "July 29th, 2016"
+	},
+    {
+        "Student ID": 14,
+        "First Name": "Alfreda",
+        "Second Name": "Oprah",
+        "Email": "risus.In.mi@vulputatelacus.org",
+        "Tel Number": "528-0972",
+        "Address": "Westkerke",
+        "Academic year": "December 20th, 2016"
+	},
+    {
+        "Student ID": 15,
+        "First Name": "Burke",
+        "Second Name": "Keely",
+        "Email": "tristique@faucibusleo.com",
+        "Tel Number": "850-2160",
+        "Address": "Paiguano",
+        "Academic year": "March 7th, 2017"
+	},
+    {
+        "Student ID": 16,
+        "First Name": "Yasir",
+        "Second Name": "Tyler",
+        "Email": "nisi.Cum@in.com",
+        "Tel Number": "317-6969",
+        "Address": "Colloredo di Monte Albano",
+        "Academic year": "January 28th, 2016"
+	},
+    {
+        "Student ID": 17,
+        "First Name": "Madaline",
+        "Second Name": "Amelia",
+        "Email": "malesuada.fames@nonummyFusce.com",
+        "Tel Number": "1-758-262-2771",
+        "Address": "Greater Sudbury",
+        "Academic year": "August 1st, 2015"
+	},
+    {
+        "Student ID": 18,
+        "First Name": "Lacey",
+        "Second Name": "Shad",
+        "Email": "Morbi@ipsumcursus.co.uk",
+        "Tel Number": "942-4475",
+        "Address": "Marlborough",
+        "Academic year": "May 18th, 2016"
+	},
+    {
+        "Student ID": 19,
+        "First Name": "Carol",
+        "Second Name": "Michelle",
+        "Email": "vel.arcu@cubiliaCuraePhasellus.org",
+        "Tel Number": "1-548-965-2085",
+        "Address": "Termeno sulla strada del vino/Tramin an der Weinstrasse",
+        "Academic year": "November 3rd, 2016"
+	},
+    {
+        "Student ID": 20,
+        "First Name": "Gwendolyn",
+        "Second Name": "Rowan",
+        "Email": "enim.nec@nuncacmattis.com",
+        "Tel Number": "687-8874",
+        "Address": "Sint-Agatha-Berchem",
+        "Academic year": "September 29th, 2016"
+	},
+    {
+        "Student ID": 21,
+        "First Name": "Leah",
+        "Second Name": "Lani",
+        "Email": "ac.fermentum.vel@acnulla.net",
+        "Tel Number": "412-2711",
+        "Address": "Erie",
+        "Academic year": "November 26th, 2016"
+	},
+    {
+        "Student ID": 22,
+        "First Name": "Selma",
+        "Second Name": "Xerxes",
+        "Email": "nunc.est.mollis@idanteNunc.edu",
+        "Tel Number": "740-3134",
+        "Address": "Melipeuco",
+        "Academic year": "August 27th, 2015"
+	},
+    {
+        "Student ID": 23,
+        "First Name": "Vance",
+        "Second Name": "Brenden",
+        "Email": "montes@magnatellusfaucibus.ca",
+        "Tel Number": "1-366-856-0797",
+        "Address": "Kelso",
+        "Academic year": "June 23rd, 2016"
+	},
+    {
+        "Student ID": 24,
+        "First Name": "Trevor",
+        "Second Name": "Nathan",
+        "Email": "tincidunt@ProinvelitSed.org",
+        "Tel Number": "1-590-888-7086",
+        "Address": "Bordeaux",
+        "Academic year": "August 10th, 2016"
+	},
+    {
+        "Student ID": 25,
+        "First Name": "Amity",
+        "Second Name": "Ashely",
+        "Email": "Sed.dictum@luctus.ca",
+        "Tel Number": "422-3242",
+        "Address": "Piagge",
+        "Academic year": "December 23rd, 2016"
+	},
+    {
+        "Student ID": 26,
+        "First Name": "Rinah",
+        "Second Name": "Anika",
+        "Email": "fermentum.metus.Aenean@augue.co.uk",
+        "Tel Number": "122-6297",
+        "Address": "Labuissire",
+        "Academic year": "December 8th, 2016"
+	},
+    {
+        "Student ID": 27,
+        "First Name": "Farrah",
+        "Second Name": "Anthony",
+        "Email": "facilisis@Duis.com",
+        "Tel Number": "1-947-238-3450",
+        "Address": "Shreveport",
+        "Academic year": "November 26th, 2016"
+	},
+    {
+        "Student ID": 28,
+        "First Name": "Teagan",
+        "Second Name": "Neve",
+        "Email": "egestas.Aliquam@elit.ca",
+        "Tel Number": "1-972-462-9575",
+        "Address": "Panipat",
+        "Academic year": "April 9th, 2017"
+	},
+    {
+        "Student ID": 29,
+        "First Name": "Nehru",
+        "Second Name": "Colton",
+        "Email": "neque@dapibusgravidaAliquam.net",
+        "Tel Number": "889-7172",
+        "Address": "Bhilai",
+        "Academic year": "June 8th, 2015"
+	},
+    {
+        "Student ID": 30,
+        "First Name": "Echo",
+        "Second Name": "Malcolm",
+        "Email": "velit@Nullamut.ca",
+        "Tel Number": "1-677-635-3927",
+        "Address": "Markkleeberg",
+        "Academic year": "September 10th, 2016"
+	},
+    {
+        "Student ID": 31,
+        "First Name": "August",
+        "Second Name": "Arthur",
+        "Email": "Curabitur.ut.odio@Aliquam.co.uk",
+        "Tel Number": "973-7931",
+        "Address": "Asbestos",
+        "Academic year": "February 24th, 2017"
+	},
+    {
+        "Student ID": 32,
+        "First Name": "Samson",
+        "Second Name": "Germaine",
+        "Email": "dis.parturient@dolor.edu",
+        "Tel Number": "1-138-726-0780",
+        "Address": "Palmerston North",
+        "Academic year": "November 3rd, 2016"
+	},
+    {
+        "Student ID": 33,
+        "First Name": "Wyoming",
+        "Second Name": "Sophia",
+        "Email": "luctus.ut.pellentesque@turpis.com",
+        "Tel Number": "1-298-797-3278",
+        "Address": "Cabo de Santo Agostinho",
+        "Academic year": "April 28th, 2016"
+	},
+    {
+        "Student ID": 34,
+        "First Name": "Willow",
+        "Second Name": "Cooper",
+        "Email": "feugiat.tellus@faucibusorci.com",
+        "Tel Number": "766-3963",
+        "Address": "Newark",
+        "Academic year": "November 8th, 2015"
+	},
+    {
+        "Student ID": 35,
+        "First Name": "Lara",
+        "Second Name": "Chase",
+        "Email": "amet.diam@nibh.com",
+        "Tel Number": "507-0773",
+        "Address": "Naperville",
+        "Academic year": "November 11th, 2016"
+	},
+    {
+        "Student ID": 36,
+        "First Name": "Hilel",
+        "Second Name": "Evangeline",
+        "Email": "malesuada.fames@elit.ca",
+        "Tel Number": "1-883-514-2915",
+        "Address": "Muridke",
+        "Academic year": "June 6th, 2015"
+	},
+    {
+        "Student ID": 37,
+        "First Name": "Latifah",
+        "Second Name": "Sasha",
+        "Email": "Sed@ut.ca",
+        "Tel Number": "125-9813",
+        "Address": "Pergola",
+        "Academic year": "September 12th, 2016"
+	},
+    {
+        "Student ID": 38,
+        "First Name": "Tatiana",
+        "Second Name": "Kylee",
+        "Email": "Nulla.tincidunt.neque@nonsapienmolestie.ca",
+        "Tel Number": "1-797-342-7024",
+        "Address": "Durgapur",
+        "Academic year": "August 9th, 2016"
+	},
+    {
+        "Student ID": 39,
+        "First Name": "Daniel",
+        "Second Name": "Charity",
+        "Email": "vitae.nibh@elitelit.com",
+        "Tel Number": "1-629-641-3176",
+        "Address": "Rock Springs",
+        "Academic year": "September 10th, 2015"
+	},
+    {
+        "Student ID": 40,
+        "First Name": "Kiayada",
+        "Second Name": "Mikayla",
+        "Email": "ornare.lectus.justo@tellusAeneanegestas.org",
+        "Tel Number": "869-6653",
+        "Address": "Salzgitter",
+        "Academic year": "April 12th, 2016"
+	},
+    {
+        "Student ID": 41,
+        "First Name": "Kennan",
+        "Second Name": "Fulton",
+        "Email": "dictum.sapien@adipiscing.net",
+        "Tel Number": "1-120-662-0068",
+        "Address": "Maiolati Spontini",
+        "Academic year": "January 28th, 2016"
+	},
+    {
+        "Student ID": 42,
+        "First Name": "Serina",
+        "Second Name": "Jermaine",
+        "Email": "congue.turpis@Nam.edu",
+        "Tel Number": "1-807-762-0216",
+        "Address": "Nijkerk",
+        "Academic year": "August 19th, 2015"
+	},
+    {
+        "Student ID": 43,
+        "First Name": "Whilemina",
+        "Second Name": "Lionel",
+        "Email": "pretium.neque@dapibusrutrum.co.uk",
+        "Tel Number": "320-1498",
+        "Address": "Lakeshore",
+        "Academic year": "February 13th, 2017"
+	},
+    {
+        "Student ID": 44,
+        "First Name": "Nyssa",
+        "Second Name": "Jonah",
+        "Email": "hymenaeos.Mauris@Suspendissecommodo.org",
+        "Tel Number": "436-4935",
+        "Address": "Bornival",
+        "Academic year": "July 1st, 2015"
+	},
+    {
+        "Student ID": 45,
+        "First Name": "Julie",
+        "Second Name": "Caesar",
+        "Email": "lobortis.tellus.justo@eueleifendnec.ca",
+        "Tel Number": "1-912-539-7372",
+        "Address": "Elen",
+        "Academic year": "July 17th, 2016"
+	},
+    {
+        "Student ID": 46,
+        "First Name": "Cruz",
+        "Second Name": "August",
+        "Email": "rutrum.eu.ultrices@Maecenasiaculis.org",
+        "Tel Number": "976-1028",
+        "Address": "Morinville",
+        "Academic year": "May 10th, 2016"
+	},
+    {
+        "Student ID": 47,
+        "First Name": "Raven",
+        "Second Name": "Britanney",
+        "Email": "consectetuer@diam.net",
+        "Tel Number": "1-924-614-5321",
+        "Address": "Saumur",
+        "Academic year": "December 6th, 2015"
+	},
+    {
+        "Student ID": 48,
+        "First Name": "Fatima",
+        "Second Name": "Cathleen",
+        "Email": "dui@nibh.ca",
+        "Tel Number": "1-306-757-4556",
+        "Address": "Sargodha",
+        "Academic year": "May 29th, 2016"
+	},
+    {
+        "Student ID": 49,
+        "First Name": "Amelia",
+        "Second Name": "Yoshio",
+        "Email": "eu@Nullam.net",
+        "Tel Number": "722-4063",
+        "Address": "North Cowichan",
+        "Academic year": "October 15th, 2015"
+	},
+    {
+        "Student ID": 50,
+        "First Name": "Macaulay",
+        "Second Name": "Zachery",
+        "Email": "accumsan@augue.com",
+        "Tel Number": "1-728-681-1308",
+        "Address": "Overmere",
+        "Academic year": "September 4th, 2016"
+	},
+    {
+        "Student ID": 51,
+        "First Name": "Marsden",
+        "Second Name": "Tobias",
+        "Email": "Duis.gravida@Aliquamornare.org",
+        "Tel Number": "534-1518",
+        "Address": "Rio nell'Elba",
+        "Academic year": "April 23rd, 2015"
+	},
+    {
+        "Student ID": 52,
+        "First Name": "Buffy",
+        "Second Name": "Jena",
+        "Email": "Mauris@aliquamerosturpis.net",
+        "Tel Number": "1-378-833-2641",
+        "Address": "Helmond",
+        "Academic year": "January 4th, 2016"
+	},
+    {
+        "Student ID": 53,
+        "First Name": "Harrison",
+        "Second Name": "Denton",
+        "Email": "vitae.erat@ametdiam.ca",
+        "Tel Number": "878-8441",
+        "Address": "Sankt Wendel",
+        "Academic year": "February 6th, 2016"
+	},
+    {
+        "Student ID": 54,
+        "First Name": "Eagan",
+        "Second Name": "Rosalyn",
+        "Email": "lorem.ac.risus@et.ca",
+        "Tel Number": "616-2066",
+        "Address": "Badalona",
+        "Academic year": "March 21st, 2017"
+	},
+    {
+        "Student ID": 55,
+        "First Name": "Ian",
+        "Second Name": "Jessamine",
+        "Email": "magna.Praesent@nulla.co.uk",
+        "Tel Number": "974-6229",
+        "Address": "Haguenau",
+        "Academic year": "January 26th, 2017"
+	},
+    {
+        "Student ID": 56,
+        "First Name": "Vincent",
+        "Second Name": "Ivor",
+        "Email": "vitae.erat@pedeSuspendisse.net",
+        "Tel Number": "1-980-265-1812",
+        "Address": "Colchester",
+        "Academic year": "July 20th, 2015"
+	},
+    {
+        "Student ID": 57,
+        "First Name": "Judah",
+        "Second Name": "Jin",
+        "Email": "Phasellus.nulla.Integer@ornareegestasligula.co.uk",
+        "Tel Number": "394-2534",
+        "Address": "Borgomaro",
+        "Academic year": "May 16th, 2015"
+	},
+    {
+        "Student ID": 58,
+        "First Name": "Fay",
+        "Second Name": "Winifred",
+        "Email": "Cras@loremipsum.edu",
+        "Tel Number": "1-973-182-3453",
+        "Address": "Hanau",
+        "Academic year": "February 1st, 2016"
+	},
+    {
+        "Student ID": 59,
+        "First Name": "Quon",
+        "Second Name": "Vivian",
+        "Email": "malesuada.vel@pellentesquemassa.com",
+        "Tel Number": "1-129-915-9751",
+        "Address": "Guaitecas",
+        "Academic year": "December 31st, 2015"
+	},
+    {
+        "Student ID": 60,
+        "First Name": "Rosalyn",
+        "Second Name": "Oren",
+        "Email": "Donec.elementum.lorem@apurus.edu",
+        "Tel Number": "457-5594",
+        "Address": "Wekweti",
+        "Academic year": "March 3rd, 2016"
+	},
+    {
+        "Student ID": 61,
+        "First Name": "Lynn",
+        "Second Name": "Lee",
+        "Email": "Maecenas.mi@Curabiturut.co.uk",
+        "Tel Number": "930-0609",
+        "Address": "Castelmezzano",
+        "Academic year": "October 28th, 2015"
+	},
+    {
+        "Student ID": 62,
+        "First Name": "Vincent",
+        "Second Name": "Cailin",
+        "Email": "Pellentesque.habitant.morbi@in.edu",
+        "Tel Number": "666-9519",
+        "Address": "Vitacura",
+        "Academic year": "November 10th, 2016"
+	},
+    {
+        "Student ID": 63,
+        "First Name": "Elaine",
+        "Second Name": "Kerry",
+        "Email": "commodo@egestasrhoncusProin.net",
+        "Tel Number": "623-3693",
+        "Address": "Anlier",
+        "Academic year": "May 15th, 2016"
+	},
+    {
+        "Student ID": 64,
+        "First Name": "Carly",
+        "Second Name": "Alexa",
+        "Email": "Sed.malesuada@Quisque.net",
+        "Tel Number": "1-592-720-9352",
+        "Address": "Timaru",
+        "Academic year": "June 23rd, 2016"
+	},
+    {
+        "Student ID": 65,
+        "First Name": "Zoe",
+        "Second Name": "Vivian",
+        "Email": "malesuada.vel@gravidaPraesenteu.co.uk",
+        "Tel Number": "1-852-112-1759",
+        "Address": "Lanark County",
+        "Academic year": "May 4th, 2016"
+	},
+    {
+        "Student ID": 66,
+        "First Name": "Bernard",
+        "Second Name": "Vladimir",
+        "Email": "Integer.id@natoquepenatibus.ca",
+        "Tel Number": "670-5591",
+        "Address": "Altamura",
+        "Academic year": "November 12th, 2015"
+	},
+    {
+        "Student ID": 67,
+        "First Name": "Blaine",
+        "Second Name": "Katell",
+        "Email": "sem.ut.dolor@In.ca",
+        "Tel Number": "1-112-433-6670",
+        "Address": "Ayr",
+        "Academic year": "February 10th, 2016"
+	},
+    {
+        "Student ID": 68,
+        "First Name": "Camilla",
+        "Second Name": "Tara",
+        "Email": "magna.sed@etarcu.org",
+        "Tel Number": "156-0307",
+        "Address": "Nasino",
+        "Academic year": "October 24th, 2016"
+	},
+    {
+        "Student ID": 69,
+        "First Name": "Samuel",
+        "Second Name": "Alan",
+        "Email": "nulla.Integer@Nullaeget.edu",
+        "Tel Number": "1-198-406-5149",
+        "Address": "San Clemente",
+        "Academic year": "July 25th, 2015"
+	},
+    {
+        "Student ID": 70,
+        "First Name": "Meredith",
+        "Second Name": "Austin",
+        "Email": "sapien.molestie@DonecegestasDuis.co.uk",
+        "Tel Number": "1-799-665-2328",
+        "Address": "Tiel",
+        "Academic year": "April 24th, 2015"
+	},
+    {
+        "Student ID": 71,
+        "First Name": "Emmanuel",
+        "Second Name": "Harper",
+        "Email": "nonummy.ac.feugiat@eleifendvitae.com",
+        "Tel Number": "1-704-339-7069",
+        "Address": "Birmingham",
+        "Academic year": "April 15th, 2017"
+	},
+    {
+        "Student ID": 72,
+        "First Name": "Gail",
+        "Second Name": "Armando",
+        "Email": "consectetuer.rhoncus.Nullam@Fuscediam.co.uk",
+        "Tel Number": "694-4912",
+        "Address": "Erode",
+        "Academic year": "August 16th, 2015"
+	},
+    {
+        "Student ID": 73,
+        "First Name": "Yoshio",
+        "Second Name": "Damon",
+        "Email": "risus.a@lacusCrasinterdum.edu",
+        "Tel Number": "1-316-260-3017",
+        "Address": "Landeck",
+        "Academic year": "August 2nd, 2016"
+	},
+    {
+        "Student ID": 74,
+        "First Name": "Victor",
+        "Second Name": "Tamekah",
+        "Email": "pellentesque.a@liberomaurisaliquam.ca",
+        "Tel Number": "1-715-633-7018",
+        "Address": "Maracanaú",
+        "Academic year": "November 4th, 2015"
+	},
+    {
+        "Student ID": 75,
+        "First Name": "Paki",
+        "Second Name": "Fitzgerald",
+        "Email": "bibendum.sed@Maecenasornare.org",
+        "Tel Number": "1-560-858-4743",
+        "Address": "Dieppe",
+        "Academic year": "September 7th, 2016"
+	},
+    {
+        "Student ID": 76,
+        "First Name": "Sebastian",
+        "Second Name": "Prescott",
+        "Email": "auctor.nunc@Duis.co.uk",
+        "Tel Number": "1-902-841-5257",
+        "Address": "Bama",
+        "Academic year": "December 6th, 2015"
+	},
+    {
+        "Student ID": 77,
+        "First Name": "Dane",
+        "Second Name": "Conan",
+        "Email": "lacus.Quisque.imperdiet@nisinibhlacinia.net",
+        "Tel Number": "727-0346",
+        "Address": "Lake Cowichan",
+        "Academic year": "May 6th, 2016"
+	},
+    {
+        "Student ID": 78,
+        "First Name": "Brian",
+        "Second Name": "Kasper",
+        "Email": "nec@leoVivamusnibh.org",
+        "Tel Number": "1-807-580-6082",
+        "Address": "Ancaster Town",
+        "Academic year": "July 25th, 2016"
+	},
+    {
+        "Student ID": 79,
+        "First Name": "Graham",
+        "Second Name": "Cally",
+        "Email": "non.hendrerit.id@faucibus.com",
+        "Tel Number": "1-819-427-1803",
+        "Address": "Herne",
+        "Academic year": "November 11th, 2015"
+	},
+    {
+        "Student ID": 80,
+        "First Name": "Skyler",
+        "Second Name": "Unity",
+        "Email": "faucibus.ut@acmattis.co.uk",
+        "Tel Number": "349-3910",
+        "Address": "Tolentino",
+        "Academic year": "April 10th, 2016"
+	},
+    {
+        "Student ID": 81,
+        "First Name": "Kennan",
+        "Second Name": "Jakeem",
+        "Email": "nisi.Aenean.eget@lectusante.edu",
+        "Tel Number": "1-314-228-0176",
+        "Address": "Saint-LŽger",
+        "Academic year": "June 23rd, 2016"
+	},
+    {
+        "Student ID": 82,
+        "First Name": "Finn",
+        "Second Name": "Gwendolyn",
+        "Email": "justo.sit.amet@imperdiet.net",
+        "Tel Number": "1-162-893-3815",
+        "Address": "Bojano",
+        "Academic year": "July 13th, 2015"
+	},
+    {
+        "Student ID": 83,
+        "First Name": "Graiden",
+        "Second Name": "Xanthus",
+        "Email": "nisl@sapiencursus.co.uk",
+        "Tel Number": "1-927-884-3057",
+        "Address": "Fahler",
+        "Academic year": "August 6th, 2016"
+	},
+    {
+        "Student ID": 84,
+        "First Name": "Colorado",
+        "Second Name": "Kasimir",
+        "Email": "pretium@ametanteVivamus.net",
+        "Tel Number": "979-8576",
+        "Address": "Vottem",
+        "Academic year": "November 5th, 2016"
+	},
+    {
+        "Student ID": 85,
+        "First Name": "Fiona",
+        "Second Name": "Hamish",
+        "Email": "egestas@lacus.co.uk",
+        "Tel Number": "588-4131",
+        "Address": "Castelluccio Inferiore",
+        "Academic year": "July 9th, 2016"
+	},
+    {
+        "Student ID": 86,
+        "First Name": "Martha",
+        "Second Name": "Sigourney",
+        "Email": "consequat.auctor@ornareFuscemollis.com",
+        "Tel Number": "106-0158",
+        "Address": "Malonne",
+        "Academic year": "August 15th, 2015"
+	},
+    {
+        "Student ID": 87,
+        "First Name": "Kaseem",
+        "Second Name": "Kibo",
+        "Email": "eget@commodo.edu",
+        "Tel Number": "492-1303",
+        "Address": "Piracicaba",
+        "Academic year": "April 17th, 2016"
+	},
+    {
+        "Student ID": 88,
+        "First Name": "Jasmine",
+        "Second Name": "Coby",
+        "Email": "Sed.nunc.est@dapibusrutrumjusto.com",
+        "Tel Number": "1-843-175-4103",
+        "Address": "Gentinnes",
+        "Academic year": "January 27th, 2017"
+	},
+    {
+        "Student ID": 89,
+        "First Name": "Penelope",
+        "Second Name": "Anika",
+        "Email": "nulla.vulputate.dui@pede.ca",
+        "Tel Number": "1-284-294-1522",
+        "Address": "Casablanca",
+        "Academic year": "September 13th, 2016"
+	},
+    {
+        "Student ID": 90,
+        "First Name": "Reagan",
+        "Second Name": "Meghan",
+        "Email": "vitae.diam.Proin@lobortisrisus.co.uk",
+        "Tel Number": "1-318-124-7194",
+        "Address": "Mascalucia",
+        "Academic year": "September 10th, 2016"
+	},
+    {
+        "Student ID": 91,
+        "First Name": "Zeph",
+        "Second Name": "Preston",
+        "Email": "ultricies.adipiscing@sit.org",
+        "Tel Number": "1-176-632-0180",
+        "Address": "Tirúa",
+        "Academic year": "February 19th, 2016"
+	},
+    {
+        "Student ID": 92,
+        "First Name": "Kylee",
+        "Second Name": "Reece",
+        "Email": "pede.Cum.sociis@nibhPhasellusnulla.org",
+        "Tel Number": "134-3343",
+        "Address": "Avignon",
+        "Academic year": "October 9th, 2016"
+	},
+    {
+        "Student ID": 93,
+        "First Name": "Ora",
+        "Second Name": "Marvin",
+        "Email": "feugiat.Sed@antebibendumullamcorper.net",
+        "Tel Number": "840-0349",
+        "Address": "Nazilli",
+        "Academic year": "February 11th, 2016"
+	},
+    {
+        "Student ID": 94,
+        "First Name": "Deanna",
+        "Second Name": "Shay",
+        "Email": "Ut@Morbi.net",
+        "Tel Number": "1-995-681-4079",
+        "Address": "Fort Worth",
+        "Academic year": "June 9th, 2015"
+	},
+    {
+        "Student ID": 95,
+        "First Name": "Clinton",
+        "Second Name": "Karleigh",
+        "Email": "enim.condimentum@Maurisnon.net",
+        "Tel Number": "1-319-881-3216",
+        "Address": "Ninhue",
+        "Academic year": "July 29th, 2016"
+	},
+    {
+        "Student ID": 96,
+        "First Name": "Addison",
+        "Second Name": "Clio",
+        "Email": "est.mollis@lacinia.co.uk",
+        "Tel Number": "1-778-526-8907",
+        "Address": "Bouge",
+        "Academic year": "November 28th, 2016"
+	},
+    {
+        "Student ID": 97,
+        "First Name": "Kiona",
+        "Second Name": "Ramona",
+        "Email": "placerat.Cras.dictum@eleifend.net",
+        "Tel Number": "1-308-911-3588",
+        "Address": "Kielce",
+        "Academic year": "December 19th, 2016"
+	},
+    {
+        "Student ID": 98,
+        "First Name": "Chastity",
+        "Second Name": "Elmo",
+        "Email": "diam@viverra.com",
+        "Tel Number": "1-966-148-0906",
+        "Address": "Penhold",
+        "Academic year": "April 25th, 2015"
+	},
+    {
+        "Student ID": 99,
+        "First Name": "Ainsley",
+        "Second Name": "Wynne",
+        "Email": "ac@nequesedsem.net",
+        "Tel Number": "689-9576",
+        "Address": "Crewe",
+        "Academic year": "October 7th, 2015"
+	},
+    {
+        "Student ID": 100,
+        "First Name": "Robert",
+        "Second Name": "Jin",
+        "Email": "nec.luctus@imperdietnon.ca",
+        "Tel Number": "1-551-188-6174",
+        "Address": "Newton Abbot",
+        "Academic year": "January 14th, 2017"
+	}
+]
